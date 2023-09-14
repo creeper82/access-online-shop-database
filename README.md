@@ -20,4 +20,4 @@ Database diagram with english translations in brackets
 
 ## Final note
 
-    The project may have small issues and the VBA code isn't commented thoroughly. It is just intended to be a sample project
+The project may have small issues and the VBA code isn't commented thoroughly. It is just intended to be a sample project
