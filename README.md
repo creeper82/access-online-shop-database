@@ -12,11 +12,11 @@ It was done for a school project in 2023. Forms interface is in english, althoug
 - Different reports
 - VBA powered data generator, to generate random customer data and their orders
 
-<!-- ## Database diagram
+## Database diagram
 
 Database diagram with english translations in brackets
 
-[Database diagram image](diagram.png) -->
+[Database diagram image](diagram.png)
 
 ## Final note
 
